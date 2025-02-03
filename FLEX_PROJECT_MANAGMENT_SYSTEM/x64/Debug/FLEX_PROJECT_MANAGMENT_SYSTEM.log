@@ -1,0 +1,13 @@
+﻿  Administer.cpp
+  Course.cpp
+  main.cpp
+  Person.cpp
+D:\FLEX_PROJECT_MANAGMENT_SYSTEM\FLEX_PROJECT_MANAGMENT_SYSTEM\Person.cpp(93,8): error C2039: 'salary': is not a member of 'Person'
+D:\FLEX_PROJECT_MANAGMENT_SYSTEM\FLEX_PROJECT_MANAGMENT_SYSTEM\Person.h(32,7): message : see declaration of 'Person'
+  Section.cpp
+  Student.cpp
+  unnsorted.cpp
+  Generating Code...
+D:\FLEX_PROJECT_MANAGMENT_SYSTEM\FLEX_PROJECT_MANAGMENT_SYSTEM\unnsorted.cpp(90): warning C4715: 'UnSorted::getStudent': not all control paths return a value
+D:\FLEX_PROJECT_MANAGMENT_SYSTEM\FLEX_PROJECT_MANAGMENT_SYSTEM\Course.cpp(104): warning C4715: 'Course::findSection': not all control paths return a value
+D:\FLEX_PROJECT_MANAGMENT_SYSTEM\FLEX_PROJECT_MANAGMENT_SYSTEM\Course.cpp(116): warning C4715: 'Course::findSStudent': not all control paths return a value
